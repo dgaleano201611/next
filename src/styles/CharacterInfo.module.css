@@ -1,0 +1,14 @@
+.container {
+ text-align: center;
+}
+
+.containerTitle{
+  color: blue;
+}
+
+
+.contentImage {
+  width: 400px;
+  height: Auto;
+  border: 2px gray solid;
+}

@@ -1,0 +1,15 @@
+.charactersContainer {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+  
+}
+.charactersTitle{
+  color: blue;
+  text-align: center;
+}
+
+.characterContent {
+  padding: 10px;
+  
+}
